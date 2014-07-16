@@ -10,9 +10,5 @@
     "jade": "*",
     "mongodb" : ">=0.9.6-7",
     "mongoose" : ">=3.6"
-  },
-  "repository": {
-  "type": "git",
-  "url": "https://github.com/romulandarkstar/mean-stack-skeleton.git"
   }
 }
